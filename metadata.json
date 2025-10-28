@@ -1,0 +1,7 @@
+{
+  "name": "Silent Sentinel",
+  "description": "An application that monitors restroom audio for sounds of distress like screams or groans to detect potential emergencies or crimes using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
